@@ -9,10 +9,8 @@
   
 ### Prerequisites
 
-* Python3.6 (later versions cause install errors with speech_recognition packages - if you can get around this, go for it!)
-```
+* Python3.6 (later versions cause install errors with speech_recognition packages - if you can get around this, go for it!)<br>
 https://www.python.org/downloads/release/python-368/
-```
 
 ### Installation
 
