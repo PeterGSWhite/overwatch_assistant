@@ -6,6 +6,17 @@ import speech_recognition as sr
 from Brain import think, command_bindings
 
 r = sr.Recognizer()
+
+# Recognizer Settings
+sr.energy_threshold = 700  # minimum audio energy to consider for recording
+sr.dynamic_energy_threshold = True
+sr.dynamic_energy_adjustment_damping = 0.15
+sr.dynamic_energy_ratio = 1.5
+sr.pause_threshold = 0.2  # seconds of non-speaking audio before a phrase is considered complete
+sr.operation_timeout = None  # seconds after an internal operation (e.g., an API request) starts before it times out, or ``None`` for no timeout
+sr.phrase_threshold = 0.3  # minimum seconds of speaking audio before we consider the speaking audio a phrase - values below this are ignored (for filtering out clicks and pops)
+sr.non_speaking_duration = 0.15 
+
 audio_queue = Queue()
 keyword_entries = [(k, v[1]) for k,v in command_bindings.items()]
 
