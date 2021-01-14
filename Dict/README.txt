@@ -1,0 +1,1 @@
+After installing speech_recognition, move the dict into env\Lib\site-packages\speech_recognition\en-US
