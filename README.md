@@ -8,7 +8,7 @@
   </p>
 ### Demonstration
 
-[![Watch the video](https://img.youtube.com/vi/XRAZusHod-M/maxresdefault.jpg)](https://youtu.be/XRAZusHod-M)
+[![Watch the video](https://i9.ytimg.com/vi_webp/XRAZusHod-M/mqdefault.webp?time=1610811600000&sqp=CNCRjIAG&rs=AOn4CLBw1qrnlq_xDjWGqwZgPXdhFqC0Ew)](https://youtu.be/XRAZusHod-M)
 
 ### Prerequisites
 
