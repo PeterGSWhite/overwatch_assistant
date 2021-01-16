@@ -7,7 +7,8 @@
     <br/>
   </p>
 ### Demonstration
-https://www.youtube.com/watch?v=XRAZusHod-M&feature=youtu.be
+
+[![Watch the video](https://img.youtube.com/vi/XRAZusHod-M/maxresdefault.jpg)](https://youtu.be/XRAZusHod-M)
 
 ### Prerequisites
 
