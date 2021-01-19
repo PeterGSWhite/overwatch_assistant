@@ -9,7 +9,7 @@
   
 ### Video Demonstration
 
-[![Watch the video](https://i.ytimg.com/an_webp/XRAZusHod-M/mqdefault_6s.webp?du=3000&sqp=CMTZkIAG&rs=AOn4CLBUya7y0zS_uyrhfly3wYMVsSu_-g)](https://youtu.be/XRAZusHod-M)
+[![Watch the video](https://i9.ytimg.com/vi_webp/XRAZusHod-M/mqdefault.webp?time=1611098100000&sqp=CPTPnYAG&rs=AOn4CLD7QVWY86rvPSh7FE2ZLZECB56tkw](https://youtu.be/XRAZusHod-M)
 
 ### Prerequisites
 
