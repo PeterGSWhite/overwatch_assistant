@@ -8,8 +8,7 @@
   </p>
   
 ### Video Demonstration
-[![Watch the video](https://i9.ytimg.com/vi_webp/XRAZusHod-M/mqdefault.webp?time=1611098400000&sqp=CKDSnYAG&rs=AOn4CLB70DnR7FEl37Ojb72XDObH5hwm3A)
-![Watch the video](https://www.youtube.com/watch?v=XRAZusHod-M)
+[![Watch the video](https://i9.ytimg.com/vi_webp/XRAZusHod-M/mqdefault.webp?time=1611098400000&sqp=CKDSnYAG&rs=AOn4CLB70DnR7FEl37Ojb72XDObH5hwm3A)(https://www.youtube.com/watch?v=XRAZusHod-M)
 
 ### Prerequisites
 
