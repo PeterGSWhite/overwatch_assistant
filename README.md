@@ -6,9 +6,6 @@
     Use your real voice to trigger overwatch voice commands!<br>
     <br/>
   </p>
-  
-### Video Demonstration
-[![Watch the video](https://i.imgur.com/27H6xTQ.jpg)](https://www.youtube.com/watch?v=XRAZusHod-M)
 
 ### Prerequisites
 
